@@ -1,6 +1,9 @@
 # Temperature Converter
 
-Welcome to the Temperature Converter project! This simple program converts temperatures between Celsius, Fahrenheit, and Kelvin scales.
+![screenshot1](https://github.com/mudeitsi/PRODIGY_SD_01/assets/107103188/82384cf7-4511-4280-8f0e-f5ae9964aef4)
+
+
+Ever wondered how to convert temperatures between Celsius, Fahrenheit, and Kelvin quickly? Look no further! Our user-friendly Temperature Converter app has you covered.
 
 ## How to Use
 
@@ -27,6 +30,7 @@ Feel free to provide feedback or suggestions to make this project even better!
 - Intuitive user interface for a seamless experience.
 - Accurate and reliable temperature conversions.
 - Perfect for students, weather enthusiasts, and anyone dealing with temperature data.
+- Responsive design.
 
 
 ## Screenshots and Demo
