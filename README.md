@@ -38,10 +38,9 @@ YouTube Demo:
 https://youtu.be/eKL85FnFd1o
 
 Screenshots:
-![screenshot2](https://github.com/mudeitsi/PRODIGY_SD_01/assets/107103188/529599a3-dd2b-48c7-a5fd-1c8d8c648ab8)
 
+![screenshot1](https://github.com/mudeitsi/PRODIGY_SD_01/assets/107103188/3d080768-a55f-4aee-acd5-e4d75f5c401b) ![mobile view](https://github.com/mudeitsi/PRODIGY_SD_01/assets/107103188/662e3be7-2374-40e6-b6e4-ea3949fd7db3)
 
-![screenshot1](https://github.com/mudeitsi/PRODIGY_SD_01/assets/107103188/3d080768-a55f-4aee-acd5-e4d75f5c401b)
 
 ## Contact Information
 - **Name**: Minayo Esere
