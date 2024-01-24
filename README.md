@@ -1,4 +1,4 @@
-# Temperature Converter
+![image](https://github.com/mudeitsi/PRODIGY_SD_01/assets/107103188/11bb98f8-9885-498c-9d04-b8c2954d709c)# Temperature Converter
 
 Welcome to the Temperature Converter project! This simple program converts temperatures between Celsius, Fahrenheit, and Kelvin scales.
 
@@ -43,6 +43,10 @@ Screenshots:
 - **Name**: Minayo Esere
 - **LinkedIn**: [Minayo Esere on LinkedIn](https://www.linkedin.com/in/minayo-esere/)
 - **Github**: [Minayo Esere on Github](https://github.com/mudeitsi)
+- **Twitter/X**: [Minayo on Twitter/X](https://twitter.com/devmudiezi)
+- **YouTube**: [Minayo on YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UCDGjfyfpZgkEK5t_zTOtXpA)
+  
+
 
 ## Acknowledgments
 
