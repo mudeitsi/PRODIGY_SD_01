@@ -34,12 +34,17 @@ Feel free to provide feedback or suggestions to make this project even better!
 
 
 ## Screenshots and Demo
-YouTube Demo:
+
+## YouTube Demo:
 https://youtu.be/eKL85FnFd1o
 
-Screenshots:
+## Responsive Design:
 
-![screenshot1](https://github.com/mudeitsi/PRODIGY_SD_01/assets/107103188/3d080768-a55f-4aee-acd5-e4d75f5c401b) ![mobile view](https://github.com/mudeitsi/PRODIGY_SD_01/assets/107103188/662e3be7-2374-40e6-b6e4-ea3949fd7db3)
+Desktop
+![screenshot1](https://github.com/mudeitsi/PRODIGY_SD_01/assets/107103188/3d080768-a55f-4aee-acd5-e4d75f5c401b) 
+
+Mobile/Tablet view
+![mobile responsive design](https://github.com/mudeitsi/PRODIGY_SD_01/assets/107103188/fad73929-db72-4071-bafd-743de6be2d39)
 
 
 ## Contact Information
